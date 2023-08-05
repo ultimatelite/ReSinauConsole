@@ -1,7 +1,7 @@
 # ReSinauConsole
 ReSinauConsole, is a semi-fork from the original [ReSinau](https://github.com/kalexs8/ReSinau.git), it intends to bring Android-version ReSinau available to computers.
 
-It's primarily written in Pure Java, the SDK used to develop this project is OpenJDK 20. Although, you can download the binary from the [releases](https://github.com/) page, and install JRE 8 on your machine, then run the binary with:
+It's primarily written in Pure Java, the SDK used to develop this project is OpenJDK 20. Although, you can download the binary from the [releases](https://github.com/ultimatelite/ReSinauConsole/releases) page, and install JRE 8 on your machine, then run the binary with:
 
 ```sh
 java -jar resinau-VERSION.jar
@@ -17,6 +17,9 @@ As this is a prototype, I plan to make it a GUI (Graphical User Interface) for l
 
 # How can I set my own question router?
 By default, the release JAR uses the one that ReSinau provides, but, if you decide to compile from source, you can change the `QUESTION_ROUTER` in the `RSConstants.java` file.
+
+# License
+This project has a [permissive](https://www.dictionary.com/browse/permissive) license, it is under the terms of MIT License. Read more on LICENSE file.
 
 # Available Languages?
 Currently, the interface uses the informal Indonesia setting.

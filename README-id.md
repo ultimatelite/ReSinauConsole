@@ -21,6 +21,9 @@ Karena ini prototip, saya akan membuat GUI (Tampilan Bergrafis) nanti.
 Defaultnya, rilisan JAR nya menggunakan yang sudah disediakan oleh ReSinau, namun, ketika anda
 membangun ulang dari sumbernya, anda bisa merubah `QUESTION_ROUTER` di file `RSConstants.java`.
 
+# Lisensi
+Projek ini mempunyai lisensi [permisif](https://kbbi.web.id/permisif), dibawah ketentuan Lisensi MIT. Baca selengkapnya di file LICENSE.
+
 # Bahasa yang tersedia?
 Saat ini, tampilannya menggunakan Bahasa Indonesia yang tidak formal.
 
