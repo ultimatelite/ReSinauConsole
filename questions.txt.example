@@ -1,0 +1,38 @@
+// Contoh soal, ReSinau yang di rilis menggunakan // sebagai komen
+// apa fungsinya komen? Untuk menambahkan pesan seperti ini tanpa dihitung sebagai "prompt"
+// dan akan diabaikan oleh engine.
+
+1. Abcdef?
+A. Abc
+B. DEF
+C. ACD
+D. ABC
+Jawaban benar: A
+
+2. Apa maksudmu budiman?
+A. Abc
+B. DEF
+C. ACD
+D. ABC
+Jawaban benar: A
+
+3. X + X = 
+A. Abc
+B. DEF
+C. ACD
+D. ABC
+Jawaban benar: C
+
+// 4. Ketika budiman pakai X.
+// Lalu dia memakai Y, apakah yang Dimas pakai?
+// A. Abc
+// B. DEF
+// C. ACD
+// D. ABC
+// Jawaban benar: D
+
+// --kunci
+// a
+// a
+// c
+// d
